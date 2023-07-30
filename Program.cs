@@ -3,6 +3,7 @@
 
     string apresentacao = "Olá, seja bem vindo";
     int quantidade = 1;
+    quantidade = 10;
     double altura = 1.80;
 
     decimal preco = 1.80M;
@@ -15,6 +16,9 @@
 
     Console.WriteLine("Valor da variável preço " + preco);
     Console.WriteLine("Valor da variável condicao: " + condicao);
+
+
+   
 
   
       
