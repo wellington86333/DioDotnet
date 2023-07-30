@@ -1,0 +1,15 @@
+C:\workspace\DioDotnet\bin\Debug\net7.0\DioDotnet.exe
+C:\workspace\DioDotnet\bin\Debug\net7.0\DioDotnet.deps.json
+C:\workspace\DioDotnet\bin\Debug\net7.0\DioDotnet.runtimeconfig.json
+C:\workspace\DioDotnet\bin\Debug\net7.0\DioDotnet.dll
+C:\workspace\DioDotnet\bin\Debug\net7.0\DioDotnet.pdb
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.csproj.AssemblyReference.cache
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.AssemblyInfoInputs.cache
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.AssemblyInfo.cs
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.csproj.CoreCompileInputs.cache
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.dll
+C:\workspace\DioDotnet\obj\Debug\net7.0\refint\DioDotnet.dll
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.pdb
+C:\workspace\DioDotnet\obj\Debug\net7.0\DioDotnet.genruntimeconfig.cache
+C:\workspace\DioDotnet\obj\Debug\net7.0\ref\DioDotnet.dll
