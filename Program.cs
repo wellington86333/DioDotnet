@@ -7,11 +7,14 @@
 
     decimal preco = 1.80M;
 
+    bool condicao = true;
+
     Console.WriteLine("Valor da variável apresentação:" + apresentacao);
     Console.WriteLine("Valor da variável quantidade: " + quantidade);
-    Console.WriteLine("Valor da variável altura: " + altura);
+    Console.WriteLine("Valor da variável altura: " + altura.ToString("0.00"));
 
     Console.WriteLine("Valor da variável preço " + preco);
+    Console.WriteLine("Valor da variável condicao: " + condicao);
 
   
       
