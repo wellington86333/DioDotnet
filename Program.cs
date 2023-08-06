@@ -4,8 +4,8 @@
 int numero = 10;
 
 //Console.WriteLine($" O número {numero} * 1 = {numero * 1}");
-for(int i = 0; i <= 10; i++ ){
-    Console.WriteLine($"{10} x {i} = {10 * i}");
+for(int i = 0; i <= numero; i++ ){
+    Console.WriteLine($"{numero} x {i} = {numero * i}");
 }
 
 
