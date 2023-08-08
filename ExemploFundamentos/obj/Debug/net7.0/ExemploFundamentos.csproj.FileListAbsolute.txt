@@ -1,0 +1,15 @@
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.deps.json
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.runtimeconfig.json
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.dll
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.pdb
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.csproj.AssemblyReference.cache
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.AssemblyInfoInputs.cache
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.AssemblyInfo.cs
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.csproj.CoreCompileInputs.cache
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.dll
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/refint/ExemploFundamentos.dll
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.pdb
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.genruntimeconfig.cache
+/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/Debug/net7.0/ref/ExemploFundamentos.dll
