@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/ExemploFundamentos.csproj",
+      "projectUniqueName": "/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/ExemploFundamentos/ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/ExemploFundamentos.csproj",
+      "projectPath": "/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/ExemploFundamentos/ExemploFundamentos.csproj",
       "packagesPath": "/home/wellington/.nuget/packages/",
-      "outputPath": "/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/obj/",
+      "outputPath": "/home/wellington/Área de Trabalho/workspace/ExemploFundamentos/ExemploFundamentos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/wellington/.nuget/NuGet/NuGet.Config"

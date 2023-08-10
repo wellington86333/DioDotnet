@@ -1,5 +1,44 @@
 ﻿
-using ExemploFundamentos.Commom.Models
+
+
+int[] arrayInteiros = new int[3];
+
+arrayInteiros[0] = 72; 
+arrayInteiros[1] = 64;
+arrayInteiros[2] = 50;
+
+
+
+// Console.WriteLine("Percorrendo o array com o FOR");
+// for(int contador = 0; contador < arrayInteiros[contador]; contador ++){
+//     Console.WriteLine($"Psição {contador} - {arrayInteiros[contador]}");
+// } 
+
+
+
+Console.WriteLine("Percorrendo o array com Foreach");
+int contadorForeach = 0;
+
+foreach(int valor in arrayInteiros){
+
+    Console.WriteLine($"Posição Nº {contadorForeach} - {valor}");
+    contadorForeach ++;
+
+}
+
+string [] arrayString = {"Wellington", "João", "Carlos", "Matheus"};
+
+// for(int i = 0; i < arrayString[i]){
+// Console.WriteLine($"Os nomes contidos no array são {arrayString[i]}");
+
+// }
+
+foreach (string nomes in arrayString)
+{
+    Console.WriteLine($"Os nomes contidos no array são: {nomes}");
+    
+}
+
 
 
 //Pessoa pessoa1 = new Pessoa();
